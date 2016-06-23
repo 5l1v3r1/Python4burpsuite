@@ -19,4 +19,4 @@ class BurpExtender 和 其中的 registerExtenderCallbacks函数按照案例直�
 * 代码的报错信息会在Error中输出
 
 
-http://www.freebuf.com/articles/terminal/106673.html是一个很详细的案例
+http://www.freebuf.com/articles/terminal/106673.html
